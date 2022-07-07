@@ -1,0 +1,11 @@
+Model Information:
+* title:	Iron Man Bleeding Edge
+* source:	https://sketchfab.com/3d-models/iron-man-bleeding-edge-46b3422fe06a426aa1b7bc541d9d00c6
+* author:	Shivam.Yadav (https://sketchfab.com/Shivam.Yadav)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Iron Man Bleeding Edge" (https://sketchfab.com/3d-models/iron-man-bleeding-edge-46b3422fe06a426aa1b7bc541d9d00c6) by Shivam.Yadav (https://sketchfab.com/Shivam.Yadav) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

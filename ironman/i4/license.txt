@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ironman
+* source:	https://sketchfab.com/3d-models/ironman-136c19d0c67f4a61afc2627370f836e8
+* author:	SahejSinghGill (https://sketchfab.com/SahejSinghGill)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ironman" (https://sketchfab.com/3d-models/ironman-136c19d0c67f4a61afc2627370f836e8) by SahejSinghGill (https://sketchfab.com/SahejSinghGill) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

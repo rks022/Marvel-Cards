@@ -1,0 +1,11 @@
+Model Information:
+* title:	Captain America
+* source:	https://sketchfab.com/3d-models/captain-america-5bf43af9198f46318d96e23587338913
+* author:	alexseagle2004 (https://sketchfab.com/alexseagle2004)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Captain America" (https://sketchfab.com/3d-models/captain-america-5bf43af9198f46318d96e23587338913) by alexseagle2004 (https://sketchfab.com/alexseagle2004) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

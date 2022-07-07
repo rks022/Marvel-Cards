@@ -1,0 +1,11 @@
+Model Information:
+* title:	Designer Guitar
+* source:	https://sketchfab.com/3d-models/designer-guitar-d45111cbe4d84c9bbf37784bc140dca3
+* author:	Raphael Escamilla (https://sketchfab.com/Raffey)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Designer Guitar" (https://sketchfab.com/3d-models/designer-guitar-d45111cbe4d84c9bbf37784bc140dca3) by Raphael Escamilla (https://sketchfab.com/Raffey) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
